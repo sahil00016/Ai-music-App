@@ -1,0 +1,39 @@
+name: gesture_voice_control_app
+description: A gesture and voice-controlled smart interaction app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  camera: ^0.10.5+5
+  speech_to_text: ^7.0.0
+  permission_handler: ^11.0.1
+  google_mlkit_commons: ^0.11.0
+  google_mlkit_pose_detection: ^0.14.0
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  provider: ^6.1.1
+  flutter_svg: ^2.0.9
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.3.0
+  shared_preferences: ^2.2.2
+  audioplayers: ^5.0.0
+  file_picker: ^10.1.9
+  share_plus: ^7.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+#   assets:
+#     # - images/a_dot_burr.jpeg
+#     # - images/a_dot_burr.jpeg 
