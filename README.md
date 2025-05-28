@@ -140,3 +140,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Flutter community and documentation.
 - Developers of the utilized Flutter packages.
 
+## Demonstration Video
+
+Check out a video demonstration of the app's features and usage here: [AI Music App Demo](https://drive.google.com/file/d/1IZZOH6nYQtSKHqvwvhPrKlG-VtXExuaR/view?usp=drivesdk)
+
+
