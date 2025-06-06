@@ -2,12 +2,16 @@
 
 A Flutter application for managing and playing local music files with voice control, and planned gesture control.
 
-# Over Look
-![WhatsApp Image 2025-06-06 at 20 40 52_664bd817](https://github.com/user-attachments/assets/79f4b782-73c3-48af-a0db-7bee9e8ec159)
-![WhatsApp Image 2025-06-06 at 20 40 52_c1b940cc](https://github.com/user-attachments/assets/6d2a9a91-f43e-433c-8904-60ef99b1cf95)
-![WhatsApp Image 2025-06-06 at 20 40 51_e4b0c079](https://github.com/user-attachments/assets/467a2965-cb24-4078-a31d-32164a01dd9c)
-![WhatsApp Image 2025-06-06 at 20 40 51_e9a62e0d](https://github.com/user-attachments/assets/e9988d34-838c-4533-a476-5ba6bf5f977f)
-![WhatsApp Image 2025-06-06 at 20 40 51_fe9a5d56](https://github.com/user-attachments/assets/f43e234a-4e87-44fe-bc51-154528730723)
+<h2>Over Look</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79f4b782-73c3-48af-a0db-7bee9e8ec159" width="250" />
+  <img src="https://github.com/user-attachments/assets/6d2a9a91-f43e-433c-8904-60ef99b1cf95" width="250" />
+  <img src="https://github.com/user-attachments/assets/467a2965-cb24-4078-a31d-32164a01dd9c" width="250" />
+  <img src="https://github.com/user-attachments/assets/e9988d34-838c-4533-a476-5ba6bf5f977f" width="250" />
+  <img src="https://github.com/user-attachments/assets/f43e234a-4e87-44fe-bc51-154528730723" width="250" />
+</p>
+
 
 ## Demonstration Video
 
